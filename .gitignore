@@ -366,3 +366,4 @@ plugins
 vm/
 
 .DS_store
+release-git
