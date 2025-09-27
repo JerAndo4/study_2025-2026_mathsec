@@ -230,14 +230,20 @@ function main()
     println("Исходный текст: $text")
     println("Ключ: $password")
     println("Зашифрованный текст: $route\n")
+```
 
+# Запуск кода
+```julia
     text = "договор подписали"
     pass = "шифр"
     println("Шифрование с помощью решеток:")
     println("Исходный текст: $text")
     println("Ключ: $password")
     println("Зашифрованный текст: $(grid_cipher(text, pass))\n")
+```
 
+# Запуск кода
+```julia
     text = "криптография серьезная наука"
     pass = "математика"
     println("Таблица Виженера:")
