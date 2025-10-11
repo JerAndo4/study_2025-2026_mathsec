@@ -1,6 +1,6 @@
-c670fad8e0023247d0b1f1f898b9825ad0a6b89fbc409583bfdda959bdd1c254  labs/lab2/presentation/image-lab2-v2.0.0.zip
-c1efeb7cccb1ec5b2553cd836f33792c6d6b893b2f134026da71aba4dc3fec2a  labs/lab2/report/image-lab2-v2.0.0.zip
-7b9cd092098701371bcd7e0b12051eab0b7ce5657bcd97df75ab6e54636edaaf  labs/lab2/presentation/mathsec--lab2--mathsec--lab2--presentation.qmd
+c670fad8e0023247d0b1f1f898b9825ad0a6b89fbc409583bfdda959bdd1c254  labs/lab2/presentation/presentation-image-lab2-v2.0.0.zip
+c1efeb7cccb1ec5b2553cd836f33792c6d6b893b2f134026da71aba4dc3fec2a  labs/lab2/report/report-image-lab2-v2.0.0.zip
+f4aebce8d89824fc7a92f9f974543d69de6158f04dc56be2b5148676f11b976d  labs/lab2/presentation/mathsec--lab2--mathsec--lab2--presentation.qmd
 1e167d8187ea6f4497ed5a915bb462ed42f943592d1c0d30beb4a3c9e6f9676a  labs/lab2/presentation/_presentation/mathsec--lab2--mathsec--lab2--presentation.html
 4d5d23bbd8b48a38adbf559e4ee9d19427b51b77d20a14f965a15a6d9fa33fa8  labs/lab2/presentation/_presentation/mathsec--lab2--mathsec--lab2--presentation.pdf
 483703ae5c4bb734823e01b3ef9c40e16efc7e67a85fd7afe7255f86c23b070c  labs/lab2/report/mathsec--lab2--mathsec--lab2--report.qmd
