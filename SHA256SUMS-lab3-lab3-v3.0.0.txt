@@ -1,0 +1,8 @@
+49d6c0f9b4adf08127fdbf628cce2827df9a76547874a9d5a5e8b9e6beec0010  labs/lab3/presentation/presentation-image-lab3-v3.0.0.zip
+2dd491bfc5878982e509de8bed8aea514864007cd778ebd3066fb69a52380414  labs/lab3/report/report-image-lab3-v3.0.0.zip
+fed9d4ebf316038486eff1ebd1a5200f370862cce378d2476da2c26a7bab9095  labs/lab3/presentation/mathsec--lab3--mathsec--lab3--presentation.qmd
+3a252594c36f7a6b9db58214bd1f1e8ed891cc7ae10e44c554f52655406aa163  labs/lab3/presentation/_presentation/mathsec--lab3--mathsec--lab3--presentation.html
+7272b731b006433720c7de7435b6148c9ea8908e3c47fc03b8276498d6f82fdb  labs/lab3/presentation/_presentation/mathsec--lab3--mathsec--lab3--presentation.pdf
+90f2a25d093abcc04adabe02e3b3a056b8dc4808ef61987edb6013bb53927926  labs/lab3/report/mathsec--lab3--mathsec--lab3--report.qmd
+e2b0c40febb1ae6dd68879fed6e905a531dc72c036f1470530fe1a377c5a7dbb  labs/lab3/report/_report/mathsec--lab3--mathsec--lab3--report.pdf
+4c0da7773b0568c54b6c70a0ba0bef8b21d763ba3d3c6e14b48d4ff8f41aae8f  labs/lab3/report/_report/mathsec--lab3--mathsec--lab3--report.docx
