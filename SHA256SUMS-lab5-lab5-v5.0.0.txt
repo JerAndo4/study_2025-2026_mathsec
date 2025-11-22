@@ -1,5 +1,5 @@
-e21a03ef1f66dfe940edf199aa8a226e6f9bd268627964f8a13a9501fbaf6945  labs/lab5/presentation/presentation-image-lab5-v5.0.0.zip
-f2dd94bdf88451d06340dea4d60e7150c4f649c06ed4a3030567da2e5b727554  labs/lab5/report/report-image-lab5-v5.0.0.zip
+84acb39702bbd668354363233912e3d91d3f9a3d8abd80332dab93f303f91020  labs/lab5/presentation/presentation-image-lab5-v5.0.0.zip
+e2f3dd7eda5c3fec6351b16f69b7dc16ae6a48cc284d1608dd4e3442e74e20a7  labs/lab5/report/report-image-lab5-v5.0.0.zip
 c14f51c790dc19adaa3095128f890e326f6861efc09459f55818a9ee2b492839  labs/lab5/presentation/mathsec--lab5--mathsec--lab5--presentation.qmd
 914c3d77fe543609d0ef7db8d03bfa07291c97d7690710183c94b901ed52af97  labs/lab5/presentation/_presentation/mathsec--lab5--mathsec--lab5--presentation.html
 722ea33c1e37ffe25d47e73d4fde1ab33801350cc6bdc0f91dbddd0d959666d3  labs/lab5/presentation/_presentation/mathsec--lab5--mathsec--lab5--presentation.pdf
